@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be2f02d-93a1-4aed-acb5-29f02e188207" name="Changes" comment="Initial commit1">
-      <change afterPath="$PROJECT_DIR$/Ex_03062024/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab002.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab003.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab004.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab005.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab006.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hadwaleuday"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hadwaleuday&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hadwaleuday/PythonLearningUdayATB3X.git",
-    "accountId": "40b4d69e-82e3-48e9-b560-384b43b541eb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hadwaleuday/PythonLearningUdayATB3X.git&quot;,
+    &quot;accountId&quot;: &quot;40b4d69e-82e3-48e9-b560-384b43b541eb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 3
 }</component>
@@ -48,8 +53,14 @@
   "keyToString": {
     "Python.Lab001.executor": "Run",
     "Python.Lab002.executor": "Run",
+    "Python.Lab003.executor": "Run",
+    "Python.Lab004.executor": "Run",
+    "Python.Lab005.executor": "Run",
+    "Python.Lab006.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
   <component name="SharedIndexes">
