@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be2f02d-93a1-4aed-acb5-29f02e188207" name="Changes" comment="Initial commit1">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab002.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab003.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab004.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab005.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab006.py" afterDir="false" />
+    <list default="true" id="0be2f02d-93a1-4aed-acb5-29f02e188207" name="Changes" comment="Initial practice">
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab007.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab008.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,6 +53,8 @@
     "Python.Lab004.executor": "Run",
     "Python.Lab005.executor": "Run",
     "Python.Lab006.executor": "Run",
+    "Python.Lab007.executor": "Run",
+    "Python.Lab008.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -103,12 +101,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717863576851</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Initial practice">
+      <option name="closed" value="true" />
+      <created>1718006163413</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718006163413</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit1" />
+    <MESSAGE value="Initial practice" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial practice" />
   </component>
 </project>
