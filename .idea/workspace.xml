@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0be2f02d-93a1-4aed-acb5-29f02e188207" name="Changes" comment="Initial practice">
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab007.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab008.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab009.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab010.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab011.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab012.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab013.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +58,11 @@
     "Python.Lab006.executor": "Run",
     "Python.Lab007.executor": "Run",
     "Python.Lab008.executor": "Run",
+    "Python.Lab009.executor": "Run",
+    "Python.Lab010.executor": "Run",
+    "Python.Lab011.executor": "Run",
+    "Python.Lab012.executor": "Run",
+    "Python.Lab013.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
