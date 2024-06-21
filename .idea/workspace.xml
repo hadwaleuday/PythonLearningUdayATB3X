@@ -4,13 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0be2f02d-93a1-4aed-acb5-29f02e188207" name="Changes" comment="Initial practice">
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab009.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab010.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab011.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab012.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Ex_050626/Lab013.py" afterDir="false" />
+    <list default="true" id="0be2f02d-93a1-4aed-acb5-29f02e188207" name="Changes" comment="practice session003">
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab025.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab026.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab027.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab028.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab029.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Ex_10062024/Lab030.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab014.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab015.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab016.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab016.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab017.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab017.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab018.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab018.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab019.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab019.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab020.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab020.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab021.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab021.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab022.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab022.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab023.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab023.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ex_07062024/Lab024.py" beforeDir="false" afterPath="$PROJECT_DIR$/Ex_07062024/Lab024.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +75,23 @@
     "Python.Lab011.executor": "Run",
     "Python.Lab012.executor": "Run",
     "Python.Lab013.executor": "Run",
+    "Python.Lab014.executor": "Run",
+    "Python.Lab015.executor": "Run",
+    "Python.Lab016.executor": "Run",
+    "Python.Lab017.executor": "Run",
+    "Python.Lab018.executor": "Run",
+    "Python.Lab019.executor": "Run",
+    "Python.Lab020.executor": "Run",
+    "Python.Lab021.executor": "Run",
+    "Python.Lab022.executor": "Run",
+    "Python.Lab023.executor": "Run",
+    "Python.Lab024.executor": "Run",
+    "Python.Lab025.executor": "Run",
+    "Python.Lab026.executor": "Run",
+    "Python.Lab027.executor": "Run",
+    "Python.Lab028.executor": "Run",
+    "Python.Lab029.executor": "Run",
+    "Python.Lab030.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -117,13 +146,22 @@
       <option name="project" value="LOCAL" />
       <updated>1718006163413</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="practice session003">
+      <option name="closed" value="true" />
+      <created>1718738600127</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1718738600127</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Initial commit1" />
     <MESSAGE value="Initial practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial practice" />
+    <MESSAGE value="practice session003" />
+    <option name="LAST_COMMIT_MESSAGE" value="practice session003" />
   </component>
 </project>
