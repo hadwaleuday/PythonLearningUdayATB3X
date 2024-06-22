@@ -1,0 +1,14 @@
+# Difference between = and == operator
+In Python, the operators = and == serve very different purposes,
+and don't have much relation at all other than similar syntax.
+The = operator is used for assignment, such as when assigning a value to a variable.
+The == operator is the relational operator for checking equality of two values.
+
+#** Operator use
+**
+In Python, ** is the exponentiation operator.
+Furthermore, i to raise the first operand to power of second.
+
+# ^ operator
+^ (binary xor)
+If the two bits are different, the outcome bit will be 1, else it will be 0.
